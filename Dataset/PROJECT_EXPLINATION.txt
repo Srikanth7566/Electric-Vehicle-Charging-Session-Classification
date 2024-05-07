@@ -1,0 +1,1 @@
+The objective of the paper is to propose a supervised machine learning model capable of ‘‘predicting’’ the duration of the next EV charging event,happening at a certain EV charging station
